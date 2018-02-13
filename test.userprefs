@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{63AC9EE6-F29E-49D0-8595-3CDA853C0509}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArmController PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/WeirdChineseController.cs">
+    <Files>
+      <File FileName="test/Program.cs" Line="17" Column="11" />
+      <File FileName="test/ArmController.cs" Line="63" Column="29" />
+      <File FileName="test/Joystick.cs" Line="42" Column="10" />
+      <File FileName="test/WeirdChineseController.cs" Line="39" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

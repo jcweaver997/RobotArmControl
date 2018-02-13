@@ -1,0 +1,6 @@
+/home/jc/workspace/test/test/bin/Debug/test.exe
+/home/jc/workspace/test/test/bin/Debug/test.pdb
+/home/jc/workspace/test/test/obj/x86/Debug/test.csprojResolveAssemblyReference.cache
+/home/jc/workspace/test/test/obj/x86/Debug/test.csproj.CoreCompileInputs.cache
+/home/jc/workspace/test/test/obj/x86/Debug/test.exe
+/home/jc/workspace/test/test/obj/x86/Debug/test.pdb

@@ -1,0 +1,5 @@
+/home/jc/workspace/ArmController/ArmController/bin/Release/test.exe
+/home/jc/workspace/ArmController/ArmController/bin/Release/test.pdb
+/home/jc/workspace/ArmController/ArmController/obj/x86/Release/ArmController.csproj.CoreCompileInputs.cache
+/home/jc/workspace/ArmController/ArmController/obj/x86/Release/test.exe
+/home/jc/workspace/ArmController/ArmController/obj/x86/Release/test.pdb

@@ -1,0 +1,14 @@
+/home/jc/workspace/test/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jc/workspace/test/test/bin/Debug/test.exe.mdb
+/home/jc/workspace/test/test/bin/Debug/test.exe
+/home/jc/workspace/test/test/obj/x86/Debug/test.exe
+/home/jc/workspace/test/test/obj/x86/Debug/test.exe.mdb
+/home/jc/workspace/test/test/bin/Debug/MonoGame.Framework.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.MediaFoundation.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.XAudio2.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.DXGI.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.Direct3D11.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.Direct2D1.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.XInput.dll
+/home/jc/workspace/test/test/bin/Debug/SharpDX.Direct3D9.dll

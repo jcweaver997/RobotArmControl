@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{63AC9EE6-F29E-49D0-8595-3CDA853C0509}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArmController PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArmController/Joystick.cs">
+    <Files>
+      <File FileName="ArmController/Program.cs" Line="9" Column="21" />
+      <File FileName="ArmController/ArmController.cs" Line="48" Column="48" />
+      <File FileName="ArmController/Joystick.cs" Line="27" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
