@@ -3,3 +3,8 @@
 /home/jc/workspace/ArmController/ArmController/obj/x86/Debug/ArmController.csproj.CoreCompileInputs.cache
 /home/jc/workspace/ArmController/ArmController/obj/x86/Debug/test.exe
 /home/jc/workspace/ArmController/ArmController/obj/x86/Debug/test.pdb
+/home/jc/Desktop/ArmController/ArmController/bin/Debug/test.exe
+/home/jc/Desktop/ArmController/ArmController/bin/Debug/test.pdb
+/home/jc/Desktop/ArmController/ArmController/obj/x86/Debug/ArmController.csproj.CoreCompileInputs.cache
+/home/jc/Desktop/ArmController/ArmController/obj/x86/Debug/test.exe
+/home/jc/Desktop/ArmController/ArmController/obj/x86/Debug/test.pdb
