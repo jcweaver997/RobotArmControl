@@ -1,0 +1,7 @@
+/home/jc/git/RobotArmControl/ArmController/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jc/git/RobotArmControl/ArmController/bin/Debug/test.exe.mdb
+/home/jc/git/RobotArmControl/ArmController/bin/Debug/test.pdb
+/home/jc/git/RobotArmControl/ArmController/bin/Debug/test.exe
+/home/jc/git/RobotArmControl/ArmController/obj/x86/Debug/test.exe
+/home/jc/git/RobotArmControl/ArmController/obj/x86/Debug/test.exe.mdb
+/home/jc/git/RobotArmControl/ArmController/obj/x86/Debug/test.pdb
